@@ -12,3 +12,9 @@ Historical data are provided on 250,000 borrowers and the prize pool is $5,000 (
 Objective : Improve on the state of the art in credit scoring by predicting the probability that somebody will experience financial distress in the next two years.
 
 I will use machine learning to build a model that will help the bank in analyzing whom to give credits.
+
+Here's my blog detailing my work:
+
+https://medium.com/analytics-vidhya/credit-default-analysis-using-machine-learning-from-scratch-part-1-8dbaad1fae14?source=friends_link&sk=c2559676ba1b34b01ad9c6beab69180f
+
+https://medium.com/analytics-vidhya/credit-default-analysis-using-machine-learning-from-scratch-part-of-the-series-2-194d2d78a1a7?source=friends_link&sk=7e202b3e71034ed1e3506e38cd31ca07
